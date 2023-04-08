@@ -35,7 +35,7 @@
             <sub><b>팀원 김송빈</b></sub>
         </a>
         <br />
-        <div>AI 팀장</div>
+        <div>BE,AI 팀장</div>
       </td>
     </tr>
     <tr>
