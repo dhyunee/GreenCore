@@ -377,7 +377,7 @@ public class ScheduleService {
 
 		//시작 날 찾기
 		LocalDate dateSt = nowDate;
-		for (int d = 1; d <= 7; d++) {
+		for (int d = 0; d < 7; d++) {
 			dateSt = nowDate.plusDays(d);
 			Integer dayOfWeek = dateSt.getDayOfWeek().getValue();
 			if (dayOfWeek == day) {
